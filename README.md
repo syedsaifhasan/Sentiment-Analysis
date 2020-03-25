@@ -7,3 +7,5 @@ To resolve this issue, state-of-the-art models or embeddings are pre-trained on 
 We investigated the effect of two popular pre-trained word embeddings, which are GloVe and FastText, on sentiment analysis using Stanford Sentiment Treebank (SST) Dataset. After their critical analysis, we concluded that FastText outperformed GloVe on this dataset.
 
 The Python Notebook demonstrates how the Sentiment Analysis was performed.
+
+Note: The notebook only shows results of the FastText model but all the comparisions are done in the research paper submitted to the university.
